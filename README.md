@@ -8,7 +8,7 @@ Olá! gostaria de compartilhar um pouco sobre mim.
 
 ### Habilidades
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) 
+![Java](https://badgen.net/badge/Java/1.8/orange?icon=java)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
