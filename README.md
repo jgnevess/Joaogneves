@@ -1,10 +1,7 @@
-# João Gabriel
+# João Gabriel 👨🏻‍💻
 
-Olá! gostaria de compartilhar um pouco sobre mim.
-
-## Quem Sou Eu
-
-🌐 Sou um entusiasta de tecnologia. Desde que comecei minha jornada nesse campo, tenho explorado diferentes tecnologias e abordagens para resolver problemas interessantes, com foco no backend, tenho estudado Java e atualmente C#, tenho também algum conhecimento em frontend com Angular. 🌐
+Apaixonado por tecnologia.
+Estudante de Java, Kotlin, Spring Boot, C#, .Net Framework e Angular.
 
 ### Habilidades
 
