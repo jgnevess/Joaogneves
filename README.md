@@ -24,7 +24,6 @@ Estudante de Java, Kotlin, Spring Boot, C#, .Net Framework e Angular.
 Se você estiver interessado ou apenas quiser bater um papo sobre tecnologia, sinta-se à vontade para me contatar.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/joaognevess/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/joaogabrielneves_/)
 
 
 
