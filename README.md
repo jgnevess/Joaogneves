@@ -1,4 +1,4 @@
-# João Gabriel 👨🏻‍💻
+# João Gabriel
 
 Estudante de Análise e desenvolvimento de sistemas.
 
