@@ -1,8 +1,8 @@
 # João Gabriel
 
-Estudante de Análise e desenvolvimento de sistemas.
-
 Progamador Java, Kotlin, C#, Python, com conhecimentos em FrontEnd com Angular.
+
+Estudante de Análise e desenvolvimento de sistemas.
 
 ### Habilidades
 
