@@ -1,21 +1,57 @@
-# João Gabriel | Desenvolvedor Backend
+# 👨‍💻 João Gabriel | Desenvolvedor Backend
 
-## Análise e Desenvolvimento de Sistemas.
+🎓 Graduando em Análise e Desenvolvimento de Sistemas na UNIP  
+📅 Previsão de conclusão: Dezembro de 2025  
+🚀 Buscando minha primeira oportunidade na área de TI, com foco em desenvolvimento backend
 
-### Habilidades
+---
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=purple)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+## 🛠️ Habilidades Técnicas
 
-## Entre em Contato
+**Linguagens & Frameworks:**  
+- Java (Java 17) + Spring Boot  
+- C# / .NET / ASP.NET  
+- JavaScript / TypeScript  
+- Angular  
 
-Se você estiver interessado ou apenas quiser bater um papo sobre tecnologia, sinta-se à vontade para me contatar.
+**Banco de Dados:**  
+- SQL Server, MySQL, PostgreSQL  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/joaognevess/)
+**Ferramentas & Tecnologias:**  
+- Git, GitHub  
+- Docker  
+- Swagger, Postman  
+- Linux, Bash, Shell Script básico  
 
+---
 
+## 💼 Projetos
 
+- **Tech Innovation (Projeto Grace - USP):**  
+  Participei da criação de um site estático para divulgação de uma escola de tecnologia, desenvolvido como parte do projeto Grace da USP.  
+
+- **App de Cálculo de Médias:**  
+  Desenvolvido em React Native para auxiliar colegas de faculdade a calcular suas médias finais (projeto pessoal).  
+
+- **[Em andamento]** Novo projeto backend em construção (ainda não publicado no GitHub).  
+
+---
+
+## 📚 Cursos
+
+- Java 17 + Spring Boot completo  
+- .NET com C#  
+- JavaScript, TypeScript e Angular  
+- Git e GitHub  
+- SQL Server  
+*(E outros complementares nas stacks acima)*
+
+---
+
+## 📬 Contato
+
+[🔗 LinkedIn](https://www.linkedin.com/in/jgneves/)  
+[💻 GitHub](https://github.com/jgnevess)
+
+📢 Aberto a oportunidades como estagiário ou desenvolvedor backend júnior.  
+Se quiser bater um papo sobre tecnologia ou tiver alguma vaga, é só me chamar!
